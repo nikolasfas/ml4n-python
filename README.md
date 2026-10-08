@@ -35,6 +35,7 @@ Click **Open in Colab** to work on a lab directly in your browser, with nothing 
 <table align="center">
 <tr><th>#</th><th>Lab</th><th>Notebook</th></tr>
 <tr><td align="center"><b>1</b></td><td><b>Python Basics</b></td><td align="center"><a href="https://colab.research.google.com/github/Franco-Galante/ml4n-python/blob/main/labs/lab1_python/lab1_python.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a></td></tr>
+<tr><td align="center"><b>2</b></td><td><b>NumPy and pandas</b></td><td align="center"><a href="https://colab.research.google.com/github/Franco-Galante/ml4n-python/blob/main/labs/lab2_numpy_and_pandas/lab2_numpy_and_pandas.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a></td></tr>
 </table>
 
 ## Running the lectures on your own computer
